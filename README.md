@@ -12,8 +12,8 @@ A Flutter based Mobile Number Authentication with OTP (One Time Password), used 
 
 ## ScreenShots
 
-<img src="screenshot/Screenshot_1.png" width=210px height=400px>     <img src="screenshot/Screenshot_2.png" width=210px height=400px>     <img src="screenshot/Screenshot_3.png" width=210px height=400px> <br>
- <img src="screenshot/Screenshot_4.png" width=210px height=400px>     <img src="screenshot/Screenshot_5.png" width=210px height=400px>     <img src="screenshot/Screenshot_6.png" width=210px height=400px>
+<img src="screenshot/Screenshot_1.png" width=210px height=420px>     <img src="screenshot/Screenshot_2.png" width=210px height=420px>     <img src="screenshot/Screenshot_3.png" width=210px height=420px> <br>
+ <img src="screenshot/Screenshot_4.png" width=210px height=420px>     <img src="screenshot/Screenshot_5.png" width=210px height=420px>     <img src="screenshot/Screenshot_6.png" width=210px height=420px>
 
 ## Getting Started
 
