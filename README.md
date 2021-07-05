@@ -1,4 +1,4 @@
-# my_github
+# mobile_authentication ![Dart CI](https://github.com/TheAlphamerc/flutter_news_app/workflows/Dart%20CI/badge.svg)
 
 Mobile Number authentication with Getx and firebase
 
