@@ -1,6 +1,19 @@
-# mobile_authentication ![Dart CI](https://github.com/TheAlphamerc/flutter_news_app/workflows/Dart%20CI/badge.svg)
+# Mobile-OTP Authentication ![Dart CI](https://github.com/TheAlphamerc/flutter_news_app/workflows/Dart%20CI/badge.svg)
 
-Mobile Number authentication with Getx and firebase
+A Flutter based Mobile Number Authentication with OTP (One Time Password), used to verify user mobile number with the code sent on the enter mobile number with Firebase Authentication and Get library.
+
+## Packages Used
+- [x] [firebase_auth](https://pub.dev/packages/firebase_auth)
+- [x] [firebase_core](https://pub.dev/packages/firebase_core)
+- [x] [get](https://pub.dev/packages/get)
+- [x] [google_fonts](https://pub.dev/packages/google_fonts)
+- [x] [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
+- [x] [awesome_dialog](https://pub.dev/packages/awesome_dialog)
+
+## ScreenShots
+
+<img src="screenshot/Screenshot_1.png" width=210px height=400px>     <img src="screenshot/Screenshot_2.png" width=210px height=400px>     <img src="screenshot/Screenshot_3.png" width=210px height=400px> <br>
+ <img src="screenshot/Screenshot_4.png" width=210px height=400px>     <img src="screenshot/Screenshot_5.png" width=210px height=400px>     <img src="screenshot/Screenshot_6.png" width=210px height=400px>
 
 ## Getting Started
 
