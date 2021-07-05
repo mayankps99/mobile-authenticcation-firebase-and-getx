@@ -11,11 +11,21 @@ A Flutter based Mobile Number Authentication with OTP (One Time Password), used 
 - [x] [awesome_dialog](https://pub.dev/packages/awesome_dialog)
 
 ## ScreenShots
-
-<img src="screenshot/Screenshot_1.png" width=210px height=420px>     <img src="screenshot/Screenshot_2.png" width=210px height=420px>     <img src="screenshot/Screenshot_3.png" width=210px height=420px> <br>
- <img src="screenshot/Screenshot_4.png" width=210px height=420px>     <img src="screenshot/Screenshot_5.png" width=210px height=420px>     <img src="screenshot/Screenshot_6.png" width=210px height=420px>
-
-## Getting Started
+<div style="display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;">
+<img src="screenshot/Screenshot_1.png" width=auto height=500px>     <img src="screenshot/Screenshot_2.png" width=auto height=500px>     <img src="screenshot/Screenshot_3.png" width=auto height=500px>
+</div> 
+<br>
+<div style="display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;">
+<img src="screenshot/Screenshot_4.png" width=auto height=500px>     <img src="screenshot/Screenshot_5.png" width=auto height=500px>     <img src="screenshot/Screenshot_6.png" width=auto height=500px>
+</div>
+ 
+ 
+ ## Getting Started
+ 
 
 This project is a starting point for a Flutter application.
 
